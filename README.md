@@ -4,4 +4,4 @@ I am a computer science engineer and have experience in working in a startup as 
 🔭 I’m currently working on Koltin and flutter.\
 🍔 Currently working with Grappus.\
 🌱  Love for science and innovation.\
-📫 Solving Data Structures and Algorithms using C++.\
+📫 Solving Data Structures and Algorithms using C++.
